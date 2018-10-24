@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: aaace4b72309544d9b618a5ef21556b9
+timeCreated: 1536993434
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: cfbaa508a1b88943cebe8d3b2ee80dda
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.1317408, y: 3.092007, z: -10.3009615}
+      lookAt: {x: 2.5163057, y: 3.1739528, z: 1.0043126}
+      up: {x: 0.011667359, y: 0.9998713, z: -0.011012426}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Gancho Estudio Manus
+    100004: Gancho Estudio Manus 1
+    100006: Gancho Estudio Manus 10
+    100008: Gancho Estudio Manus 11
+    100010: Gancho Estudio Manus 12
+    100012: Gancho Estudio Manus 13
+    100014: Gancho Estudio Manus 14
+    100016: Gancho Estudio Manus 2
+    100018: Gancho Estudio Manus 3
+    100020: Gancho Estudio Manus 4
+    100022: Gancho Estudio Manus 5
+    100024: Gancho Estudio Manus 6
+    100026: Gancho Estudio Manus 7
+    100028: Gancho Estudio Manus 8
+    100030: Gancho Estudio Manus 9
+    100032: Group 1
+    100034: Group 102
+    100036: Group 105
+    100038: Group 108
+    100040: Group 11
+    100042: Group 12
+    100044: Group 15
+    100046: Group 17
+    100048: Group 19
+    100050: Group 21
+    100052: Group 22
+    100054: Group 25
+    100056: Group 27
+    100058: Group 29
+    100060: Group 3
+    100062: Group 30
+    100064: Group 33
+    100066: Group 37
+    100068: Group 39
+    100070: Group 40
+    100072: Group 43
+    100074: Group 45
+    100076: Group 46
+    100078: Group 49
+    100080: Group 5
+    100082: Group 51
+    100084: Group 53
+    100086: Group 55
+    100088: Group 56
+    100090: Group 58
+    100092: Group 6
+    100094: Group 60
+    100096: Group 61
+    100098: Group 64
+    100100: Group 66
+    100102: Group 67
+    100104: Group 70
+    100106: Group 72
+    100108: Group 74
+    100110: Group 75
+    100112: Group 78
+    100114: Group 80
+    100116: Group 82
+    100118: Group 84
+    100120: Group 85
+    100122: Group 88
+    100124: Group 9
+    100126: Group 92
+    100128: Group 93
+    100130: Group 96
+    100132: Group 99
+    100134: sphere
+    100136: sphere 1
+    400000: //RootNode
+    400002: Gancho Estudio Manus
+    400004: Gancho Estudio Manus 1
+    400006: Gancho Estudio Manus 10
+    400008: Gancho Estudio Manus 11
+    400010: Gancho Estudio Manus 12
+    400012: Gancho Estudio Manus 13
+    400014: Gancho Estudio Manus 14
+    400016: Gancho Estudio Manus 2
+    400018: Gancho Estudio Manus 3
+    400020: Gancho Estudio Manus 4
+    400022: Gancho Estudio Manus 5
+    400024: Gancho Estudio Manus 6
+    400026: Gancho Estudio Manus 7
+    400028: Gancho Estudio Manus 8
+    400030: Gancho Estudio Manus 9
+    400032: Group 1
+    400034: Group 102
+    400036: Group 105
+    400038: Group 108
+    400040: Group 11
+    400042: Group 12
+    400044: Group 15
+    400046: Group 17
+    400048: Group 19
+    400050: Group 21
+    400052: Group 22
+    400054: Group 25
+    400056: Group 27
+    400058: Group 29
+    400060: Group 3
+    400062: Group 30
+    400064: Group 33
+    400066: Group 37
+    400068: Group 39
+    400070: Group 40
+    400072: Group 43
+    400074: Group 45
+    400076: Group 46
+    400078: Group 49
+    400080: Group 5
+    400082: Group 51
+    400084: Group 53
+    400086: Group 55
+    400088: Group 56
+    400090: Group 58
+    400092: Group 6
+    400094: Group 60
+    400096: Group 61
+    400098: Group 64
+    400100: Group 66
+    400102: Group 67
+    400104: Group 70
+    400106: Group 72
+    400108: Group 74
+    400110: Group 75
+    400112: Group 78
+    400114: Group 80
+    400116: Group 82
+    400118: Group 84
+    400120: Group 85
+    400122: Group 88
+    400124: Group 9
+    400126: Group 92
+    400128: Group 93
+    400130: Group 96
+    400132: Group 99
+    400134: sphere
+    400136: sphere 1
+    2100000: _defaultMat
+    2100002: '[Wood_Floor_Dark]'
+    2100004: '[Color_009]'
+    2100006: '[Metal_Aluminum_Anodized]'
+    2100008: '[Color_001]'
+    2100010: '[Color_002]'
+    2100012: '[Textile_Leaves_Green]'
+    2300000: Group 1
+    2300002: Group 102
+    2300004: Group 105
+    2300006: Group 108
+    2300008: Group 12
+    2300010: Group 15
+    2300012: Group 17
+    2300014: Group 19
+    2300016: Group 22
+    2300018: Group 25
+    2300020: Group 27
+    2300022: Group 3
+    2300024: Group 30
+    2300026: Group 33
+    2300028: Group 37
+    2300030: Group 40
+    2300032: Group 43
+    2300034: Group 46
+    2300036: Group 49
+    2300038: Group 51
+    2300040: Group 53
+    2300042: Group 56
+    2300044: Group 58
+    2300046: Group 6
+    2300048: Group 61
+    2300050: Group 64
+    2300052: Group 67
+    2300054: Group 70
+    2300056: Group 72
+    2300058: Group 75
+    2300060: Group 78
+    2300062: Group 80
+    2300064: Group 82
+    2300066: Group 85
+    2300068: Group 88
+    2300070: Group 9
+    2300072: Group 93
+    2300074: Group 96
+    2300076: Group 99
+    2300078: sphere
+    2300080: sphere 1
+    3300000: Group 1
+    3300002: Group 102
+    3300004: Group 105
+    3300006: Group 108
+    3300008: Group 12
+    3300010: Group 15
+    3300012: Group 17
+    3300014: Group 19
+    3300016: Group 22
+    3300018: Group 25
+    3300020: Group 27
+    3300022: Group 3
+    3300024: Group 30
+    3300026: Group 33
+    3300028: Group 37
+    3300030: Group 40
+    3300032: Group 43
+    3300034: Group 46
+    3300036: Group 49
+    3300038: Group 51
+    3300040: Group 53
+    3300042: Group 56
+    3300044: Group 58
+    3300046: Group 6
+    3300048: Group 61
+    3300050: Group 64
+    3300052: Group 67
+    3300054: Group 70
+    3300056: Group 72
+    3300058: Group 75
+    3300060: Group 78
+    3300062: Group 80
+    3300064: Group 82
+    3300066: Group 85
+    3300068: Group 88
+    3300070: Group 9
+    3300072: Group 93
+    3300074: Group 96
+    3300076: Group 99
+    3300078: sphere
+    3300080: sphere 1
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 9
+    4300006: Mesh Group 17
+    4300008: Mesh sphere
+    4300010: Mesh Group 37
+    4300012: Mesh Group 51
+    4300014: Mesh Group 53
+    4300016: Mesh Group 58
+    4300018: Mesh Group 80
+    4300020: Mesh Group 82
+    4300022: Mesh Group 99
+    4300024: Mesh Group 102
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

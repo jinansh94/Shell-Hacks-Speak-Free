@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: beed6a371529fce4db63271f14bc34af
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CH_Surgeon_A_Cloth
+    100004: Head
+    100006: Hips
+    100008: LeftArm
+    100010: LeftEye
+    100012: LeftEyeLid
+    100014: LeftEyeLidUp
+    100016: LeftFoot
+    100018: LeftForeArm
+    100020: LeftHand
+    100022: LeftHandIndex1
+    100024: LeftHandIndex2
+    100026: LeftHandIndex3
+    100028: LeftHandThumb1
+    100030: LeftHandThumb2
+    100032: LeftHandThumb3
+    100034: LeftLeg
+    100036: LeftShoulder
+    100038: LeftUpLeg
+    100040: Neck
+    100042: Reference
+    100044: RightArm
+    100046: RightEye
+    100048: RightEyeLid
+    100050: RightEyeLidUp
+    100052: RightFoot
+    100054: RightForeArm
+    100056: RightHand
+    100058: RightHandIndex1
+    100060: RightHandIndex2
+    100062: RightHandIndex3
+    100064: RightHandThumb1
+    100066: RightHandThumb2
+    100068: RightHandThumb3
+    100070: RightLeg
+    100072: RightShoulder
+    100074: RightUpLeg
+    100076: Spine
+    100078: Spine1
+    100080: Spine2
+    100082: Util
+    400000: //RootNode
+    400002: CH_Surgeon_A_Cloth
+    400004: Head
+    400006: Hips
+    400008: LeftArm
+    400010: LeftEye
+    400012: LeftEyeLid
+    400014: LeftEyeLidUp
+    400016: LeftFoot
+    400018: LeftForeArm
+    400020: LeftHand
+    400022: LeftHandIndex1
+    400024: LeftHandIndex2
+    400026: LeftHandIndex3
+    400028: LeftHandThumb1
+    400030: LeftHandThumb2
+    400032: LeftHandThumb3
+    400034: LeftLeg
+    400036: LeftShoulder
+    400038: LeftUpLeg
+    400040: Neck
+    400042: Reference
+    400044: RightArm
+    400046: RightEye
+    400048: RightEyeLid
+    400050: RightEyeLidUp
+    400052: RightFoot
+    400054: RightForeArm
+    400056: RightHand
+    400058: RightHandIndex1
+    400060: RightHandIndex2
+    400062: RightHandIndex3
+    400064: RightHandThumb1
+    400066: RightHandThumb2
+    400068: RightHandThumb3
+    400070: RightLeg
+    400072: RightShoulder
+    400074: RightUpLeg
+    400076: Spine
+    400078: Spine1
+    400080: Spine2
+    400082: Util
+    4300000: CH_Surgeon_A_Cloth
+    9500000: //RootNode
+    13700000: CH_Surgeon_A_Cloth
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

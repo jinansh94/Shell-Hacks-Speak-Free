@@ -1,0 +1,7 @@
+sceneSetups:
+- path: D:/Users/Anurag/Documents/shellhacks1/shellhacks/New Unity Project (2)/Assets/theatre_audience.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/New Folder/theatre_audience.unity
+  isLoaded: 1
+  isActive: 0
