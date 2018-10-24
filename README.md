@@ -32,5 +32,5 @@ What's next for Speak Free:
 
 Custom speech practice mode along with custom audiences and settings. You can literally put the virtual user and the audience in any setting and help out people having problems with public speaking. We also had a stretch goal for implementing some pseudo machine learning to do speech analysis so that we can offer better insights to the user.
 
-
-Quick View of our final Application: https://www.youtube.com/watch?v=CjvBIR3CexA
+DevPost Link for the Project            :            https://devpost.com/software/speak-free
+Quick View of our final Application     :            https://www.youtube.com/watch?v=CjvBIR3CexA
